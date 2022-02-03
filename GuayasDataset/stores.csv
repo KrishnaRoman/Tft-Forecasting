@@ -1,0 +1,12 @@
+store_nbr,city,state,type,cluster
+24,Guayaquil,Guayas,D,1
+26,Guayaquil,Guayas,D,10
+27,Daule,Guayas,D,1
+28,Guayaquil,Guayas,E,10
+29,Guayaquil,Guayas,E,10
+30,Guayaquil,Guayas,C,3
+32,Guayaquil,Guayas,C,3
+34,Guayaquil,Guayas,B,6
+35,Playas,Guayas,C,3
+36,Libertad,Guayas,E,10
+51,Guayaquil,Guayas,A,17

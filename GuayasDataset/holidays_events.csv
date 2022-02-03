@@ -1,0 +1,18 @@
+date,type,locale,locale_name,description,transferred
+2012-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2013-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2013-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+2013-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+2014-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2014-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+2014-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+2015-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2015-07-24,Holiday,Local,Guayaquil,Fundacion de Guayaquil-1,False
+2015-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+2016-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2016-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+2016-07-24,Transfer,Local,Guayaquil,Traslado Fundacion de Guayaquil,False
+2016-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,True
+2017-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2017-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+2017-07-25,Additional,Local,Guayaquil,Fundacion de Guayaquil,False
